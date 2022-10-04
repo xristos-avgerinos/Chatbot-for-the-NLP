@@ -6,4 +6,4 @@ The work aims to show how in a simple way we create a chatbot that you use for a
 on it via Discord.
 
 **Group members involved in this project:**<br>
-Athanasios Bitakis, Dimitrios Panagiotopoulos, Avgerinos christos.
+Athanasios Bitakis, Dimitrios Panagiotopoulos, Avgerinos Christos.
